@@ -1,7 +1,5 @@
 # Projeto Desafio da Empresa Mobile2You 
 
-## Vaga de Desenvolvedor Backend Rails
-
 ## Requisitos
 
 ● A leitura do arquivo .csv deve ser através de um endpoint diferente da listagem de títulos;
